@@ -13,9 +13,9 @@ And then add it to your components configuration in Yii2:
 ~~~php
 'bootstrap' => ['devicedetect'],
 'components' => [
-	'devicedetect' => [
-		'class' => 'xutl\devicedetect\DeviceDetect'
-	],
+    'devicedetect' => [
+        'class' => 'xutl\devicedetect\DeviceDetect'
+    ],
 ]
 ~~~
 
